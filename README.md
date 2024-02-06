@@ -1,3 +1,3 @@
 # TYCDETAILS
-
-NAME         ROLL NO
+sneha verma
+40
